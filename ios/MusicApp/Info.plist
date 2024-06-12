@@ -34,6 +34,12 @@
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
+	<key>NSMicrophoneUsageDescription</key>
+<string>Need access to microphone for recording your singing.</string>
+<key>NSCameraUsageDescription</key>
+<string>Need access to camera for recording your singing.</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>Need access to your photo library for saving recordings.</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
